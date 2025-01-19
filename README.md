@@ -85,9 +85,9 @@ Want to contribute to the project or run it on your local machine? Here’s how 
     npm run dev
 ### About us
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 
-  <div style="text-align: center; margin: 20px; border: 1px solid #ddd; padding: 20px; border-radius: 10px; width: 250px;">
+  <div style="text-align: center; border: 1px solid #ddd; padding: 20px; border-radius: 10px; width: 250px;">
     <a href="https://www.linkedin.com/in/vansh-kirtishahi-304479289/" target="_blank">
       <img src="https://example.com/john-photo.jpg" alt="Vansh's Photo" style="width: 100%; border-radius: 50%; margin-bottom: 10px;" />
       <h4>Vansh Kirtishahi</h4>
@@ -95,7 +95,7 @@ Want to contribute to the project or run it on your local machine? Here’s how 
     <p>Founder of Wall of Humanity, working on managing operations and ensuring smooth project execution.</p>
   </div>
 
-  <div style="text-align: center; margin: 20px; border: 1px solid #ddd; padding: 20px; border-radius: 10px; width: 250px;">
+  <div style="text-align: center; border: 1px solid #ddd; padding: 20px; border-radius: 10px; width: 250px;">
     <a href="https://www.linkedin.com/in/shreyashrakhunde96/" target="_blank">
       <img src="https://example.com/jane-photo.jpg" alt="Shreyash's Photo" style="width: 100%; border-radius: 50%; margin-bottom: 10px;" />
       <h4>Shreyash Rakhunde</h4>
@@ -103,7 +103,7 @@ Want to contribute to the project or run it on your local machine? Here’s how 
     <p>Social Worker, coordinating with NGOs to ensure donations reach those in need.</p>
   </div>
 
-  <div style="text-align: center; margin: 20px; border: 1px solid #ddd; padding: 20px; border-radius: 10px; width: 250px;">
+  <div style="text-align: center; border: 1px solid #ddd; padding: 20px; border-radius: 10px; width: 250px;">
     <a href="https://www.linkedin.com/in/adinath-jadhav-293476289/" target="_blank">
       <img src="https://example.com/adinath-photo.jpg" alt="Adinath's Photo" style="width: 100%; border-radius: 50%; margin-bottom: 10px;" />
       <h4>Adinath Jadhav</h4>
@@ -112,3 +112,4 @@ Want to contribute to the project or run it on your local machine? Here’s how 
   </div>
 
 </div>
+
