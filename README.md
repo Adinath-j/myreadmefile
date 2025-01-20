@@ -6,11 +6,55 @@
   <br />
 </div>
 
+# Table of Contents
+
+1. [💡 Introduction](#-introduction)
+   - [Problem Statement](#problem-statement)
+   - [Solution](#solution)
+   - [Our Target SDG Goals 🎯](#our-target-sdg-goals-)
+2. [About the Project ℹ️](#about-the-project-ℹ️)
+   - [Our Mission](#our-mission)
+   - [Why This Matters](#why-this-matters)
+   - [How We Make a Difference](#how-we-make-a-difference)
+3. [What We Do 📝](#what-we-do-)
+   - [How Donations Work](#how-donations-work)
+   - [Sustainability at the Core](#sustainability-at-the-core)
+   - [Impact on Communities 🌍](#impact-on-communities-)
+4. [Tech Stack ⚙️](#tech-stack-️)
+5. [The Solution 💡](#the-solution-)
+6. [Who’s It For?](#whos-it-for)
+   - [Donors](#donors)
+   - [Team Members](#team-members)
+   - [NGOs](#ngos)
+7. [Our Impact](#our-impact)
+   - [Social Impact](#social-impact)
+   - [Environmental Impact](#environmental-impact)
+8. [Setup 🛠️](#setup-️)
+   - [Setting Up the Project Locally](#setting-up-the-project-locally)
+9. [About Us](#about-us)
+   - [The Team](#the-team)
+10. [Join Us 🤝](#join-us-)
+    - [How You Can Join](#how-you-can-join)
+      - [As a Donor](#as-a-donor)
+      - [As a Volunteer](#as-a-volunteer)
+      - [As a Partner NGO](#as-a-partner-ngo)
+    - [Why Join Us?](#why-join-us)
+11. [🌐 Social Media](#-social-media)
+12. [🚀 Future Development](#-future-development)
+
+
+
 # 💡 Introduction
+<br/>
 
 **Problem Statement**: Empowering Rural Communities to Break the Cycle of Poverty.
 
 **solution**: Our platform wall of humanity aims to reduce food and clothing waste by connecting donors with those in need. DOnors can donate items through our platform, which which we collect and distribute with the assistance of NGOs to ensure they reach the right beneficiaries.
+
+In a world abundant with resources yet marked by unequal distribution, countless individuals continue to face hunger and poverty. At the same time, rising food and clothing waste contributes to environmental damage and represents missed opportunities to support those in need. This imbalance is what inspired us to create Wall of Humanity—a platform committed to connecting donors with underserved communities, promoting sustainability and compassion.
+
+Wall of Humanity is more than just a platform; it’s a movement aimed at breaking the cycle of poverty, particularly in rural areas. By redistributing surplus food, clothing, and essential goods, we strive to offer immediate relief while fostering long-term empowerment. Our platform bridges the gap between those who have resources to share and those in need, ensuring that no valuable resource goes to waste.
+
 
 ### Our Target SDG Goals 🎯
 <div style="display: flex; justify-content: space-between; align-items: center; ">
@@ -22,13 +66,24 @@
 
 Our goal is to reduce food waste by redistributing surplus resources and providing essential items to those in need, fostering a more sustainable and equitable community.
 
-
-
 ## About the Project ℹ️
-Welcome to **Wall of Humanity**! Our platform is designed to tackle two major issues: food and poverty. We believe in the power of community and sustainability, so we've created a space where people can donate items they no longer need, like clothes and food, to help those who truly need them. By connecting donors, social workers, and NGOs, we ensure that these items find their way to the people who need them most. People can join us as the volunteer to help us.
+**Welcome to **Wall of Humanity**! Our platform is designed to tackle two major issues:** food and poverty. We believe in the power of community and sustainability, so we've created a space where people can donate items they no longer need, like clothes and food, to help those who truly need them. By connecting donors, social workers, and NGOs, we ensure that these items find their way to the people who need them most. People can join us as the volunteer to help us.
 
 ### Our Mission
 At **Wall of Humanity**, our mission is simple: reduce waste and empower communities. We’re here to help break the cycle of poverty by redistributing surplus resources to those in need, especially in rural areas. Together, we can build a more sustainable and compassionate world. Our project reduces the wastage of and resources.
+
+### Why This Matters
+<br/>
+
+- **Food Waste Crisis**: According to the Food and Agriculture Organization (FAO), approximately one-third of all food produced globally is wasted, while millions go hungry every day.
+- **Clothing Waste**: The fashion industry contributes significantly to landfill waste, yet many individuals struggle to access basic clothing.
+- **Rural Poverty**: Rural communities often lack access to resources, leaving them trapped in cycles of poverty and limited opportunities.
+
+## How We Make a Difference
+- **Connecting Donors and Recipients**: Our platform allows individuals and organizations to donate surplus items, which we collect and distribute to those in need with the help of NGOs and volunteers.
+- **Empowering Communities**: By addressing immediate needs like food and clothing, we help underprivileged individuals redirect their resources towards building better futures.
+Promoting Sustainability: By reducing waste and giving items a second life, we contribute to a healthier planet for future generations.
+
 
 ## What We Do 📝
 
@@ -48,7 +103,7 @@ We’ve built this platform using modern tools to make it easy to use and mainta
 
 - **Frontend**: React, Tailwind CSS.
 - **Backend**: Node.js, Express (we’re using these technologies to build a fast and responsive system).
-- **Database**: MongoDB.
+- **Database**: M1/8ongoDB.
 - **Google Tools**:
   - **Google Maps API**: For displaying locations of donors and recipients, calculating distances, and providing geolocation services.
   - **Google Cloud Platform (GCP)**: For hosting the application, using cloud functions, and securely storing data. Services like **Firebase** (for authentication and real-time databases), **Google Cloud Storage** (for file storage), and **Google Cloud Functions** (for serverless computing) are utilized.
@@ -92,30 +147,62 @@ Want to contribute to the project or run it on your local machine? Here’s how 
     npm run dev
 ### About us
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; width: 100%;">
+## About Us
 
-  <div style="flex: 1 1 250px; text-align: center; border: 2px solid #ccc; padding: 20px; border-radius: 10px; width: 250px; box-sizing: border-box; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <a href="https://www.linkedin.com/in/vansh-kirtishahi-304479289/" target="_blank">
-      <img src="https://example.com/john-photo.jpg" alt="Vansh's Photo" style="width: 100%; border-radius: 50%; margin-bottom: 10px;" />
-      <h4>Vansh Kirtishahi</h4>
-    </a>
-    <p>Founder of Wall of Humanity, working on managing operations and ensuring smooth project execution.</p>
-  </div>
+<div align="center">
 
-  <div style="flex: 1 1 250px; text-align: center; border: 2px solid #ccc; padding: 20px; border-radius: 10px; width: 250px; box-sizing: border-box; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <a href="https://www.linkedin.com/in/shreyashrakhunde96/" target="_blank">
-      <img src="https://example.com/jane-photo.jpg" alt="Shreyash's Photo" style="width: 100%; border-radius: 50%; margin-bottom: 10px;" />
-      <h4>Shreyash Rakhunde</h4>
-    </a>
-    <p>Social Worker, coordinating with NGOs to ensure donations reach those in need.</p>
-  </div>
-
-  <div style="flex: 1 1 250px; text-align: center; border: 2px solid #ccc; padding: 20px; border-radius: 10px; width: 250px; box-sizing: border-box; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-    <a href="https://www.linkedin.com/in/adinath-jadhav-293476289/" target="_blank">
-      <img src="https://example.com/adinath-photo.jpg" alt="Adinath's Photo" style="width: 100%; border-radius: 50%; margin-bottom: 10px;" />
-      <h4>Adinath Jadhav</h4>
-    </a>
-    <p>Software Engineer, leading the tech side of the project and ensuring smooth integration.</p>
-  </div>
+| ![Vansh's Photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOMNBYD5cyzaeuMYI0uw4Or3dSYRiLxyb6Vg&s) | ![Shreyash's Photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFLvlF7STw33QwkLMWOosWaWA5QJay-V5hww&s) | ![Adinath's Photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBOcC9BXXaaf_f_IJcvozce_gFQp5j7opxkw&s) |
+|:--------------------------------------------------------:|:---------------------------------------------------------:|:-------------------------------------------------------:|
+| **Vansh Kirtishahi**<br>Founder of Wall of Humanity, working on managing operations and ensuring smooth project execution. | **Shreyash Rakhunde**<br>Social Worker, coordinating with NGOs to ensure donations reach those in need. | **Adinath Jadhav**<br>Software Engineer, leading the tech side of the project and ensuring smooth integration. |
 
 </div>
+
+
+### Join Us 🤝  
+
+At **Wall of Humanity**, we believe in the power of community and collective action to make a difference. Whether you’re an individual, an organization, or just someone looking to give back, there’s a place for you in our mission to reduce waste and empower communities.  
+
+#### How You Can Join  
+
+1. **As a Donor**  
+   - Got clothes, food, or other essentials you no longer need? Sign up on our platform to donate.  
+   - Your contributions will go directly to those in need through our team and NGO partners.  
+
+2. **As a Volunteer**  
+   - Help us collect, organize, and distribute donations.  
+   - Work alongside our team to ensure the right resources reach the right people.  
+
+3. **As a Partner NGO**  
+   - Collaborate with us to distribute donations efficiently.  
+   - Together, we can maximize our impact and reach more communities in need.  
+
+#### Why Join Us?  
+
+- **Make a Difference**: Every small act of kindness contributes to a larger impact.  
+- **Support Sustainability**: Help reduce waste and give resources a second life.  
+- **Empower Communities**: Be part of a movement that’s breaking the cycle of poverty.  
+
+### 🌐 Social Media
+<p>Stay connected and join our mission to empower communities and reduce waste. Follow us on:</p>
+
+## Follow Us
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wall.of.humanity)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/V_VasCoders?t=vF8YDYUsFYOSPLhGQjwgDg&s=09)
+
+
+By following us on social media, you can:  
+- Get inspired by the impact we’re making together.  
+- Learn about upcoming donation drives and events.  
+- Share our mission with your friends and family.  
+
+Let’s spread kindness, one click at a time! 💕
+
+## 🚀 Future Development
+
+As part of our ongoing efforts to recognize and reward the valuable contributions of our volunteers, we plan to introduce **Certificates of Appreciation** along with **Coupons** for popular services like **Amazon**, **Swiggy**, **Zomato**, **Flipkart**, **Myntra**, **Uber**, **Netflix**, and more. These incentives will be distributed to volunteers who actively participate and help us achieve our mission of reducing waste and supporting communities in need.
+
+The **Certificates of Appreciation** will serve as a token of gratitude for the volunteers' time and dedication, while the **Coupons** will offer practical benefits to encourage continued involvement.
+
+This initiative will be rolled out in the near future, and we are excited to show our appreciation for the volunteers who help make a difference.
