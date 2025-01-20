@@ -10,19 +10,6 @@
 
 **Problem Statement**: Empowering Rural Communities to Break the Cycle of Poverty.
 
-**Solution**: Our platform Wall of Humanity aims to reduce food and clothing waste by connecting donors with those in need. Donors can donate items through our platform, which we collect and distribute with the assistance of NGOs to ensure they reach the right beneficiaries.
-
-### Our Target SDG Goals 🎯
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJeZLWb8w0GeBFMcDx4LwKpJHj1Q-uKybtyA&s" alt="Image 1" style="width: 38%; height: auto;">
-  <img src="https://iprt.uneca.org/images/sdg/en/E_Inverted_SDG_goals_02.png?v=WwmY1bcafhkV2cEqgartaUJ75vtFd9JSE0C81JcF4g0" alt="Image 2" style="width: 38%; height: auto;">
-</div>
-
-
-# 💡 Introduction
-
-**Problem Statement**: Empowering Rural Communities to Break the Cycle of Poverty.
-
 **solution**: Our platform wall of humanity aims to reduce food and clothing waste by connecting donors with those in need. DOnors can donate items through our platform, which which we collect and distribute with the assistance of NGOs to ensure they reach the right beneficiaries.
 
 ### Our Target SDG Goals 🎯
