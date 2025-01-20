@@ -6,50 +6,22 @@
   <br />
 </div>
 
-# Table of Contents
-
+## Table of Contents
 1. [💡 Introduction](#-introduction)
-   - [Problem Statement](#problem-statement)
-   - [Solution](#solution)
-   - [Our Target SDG Goals 🎯](#our-target-sdg-goals-)
-2. [About the Project ℹ️](#about-the-project-ℹ️)
-   - [Our Mission](#our-mission)
-   - [Why This Matters](#why-this-matters)
-   - [How We Make a Difference](#how-we-make-a-difference)
-3. [What We Do 📝](#what-we-do-)
-   - [How Donations Work](#how-donations-work)
-   - [Sustainability at the Core](#sustainability-at-the-core)
-   - [Impact on Communities 🌍](#impact-on-communities-)
-4. [Tech Stack ⚙️](#tech-stack-️)
-5. [The Solution 💡](#the-solution-)
-6. [Who’s It For?](#whos-it-for)
-   - [Donors](#donors)
-   - [Team Members](#team-members)
-   - [NGOs](#ngos)
-7. [Our Impact](#our-impact)
-   - [Social Impact](#social-impact)
-   - [Environmental Impact](#environmental-impact)
-8. [Setup 🛠️](#setup-️)
-   - [Setting Up the Project Locally](#setting-up-the-project-locally)
-9. [About Us](#about-us)
-   - [The Team](#the-team)
-10. [Join Us 🤝](#join-us-)
-    - [How You Can Join](#how-you-can-join)
-      - [As a Donor](#as-a-donor)
-      - [As a Volunteer](#as-a-volunteer)
-      - [As a Partner NGO](#as-a-partner-ngo)
-    - [Why Join Us?](#why-join-us)
-11. [🌐 Social Media](#-social-media)
-12. [🚀 Future Development](#-future-development)
-
+2. [🎯 Our Target SDG Goals](#our-target-sdg-goals-)
+3. [ℹ️ About the Project](#about-the-project-ℹ️)
+4. [🎯 Our Mission](#our-mission)
+5. [🌍 Why This Matters](#why-this-matters)
+6. [📝 What We Do](#what-we-do-)
+7. [⚙️ Tech Stack](#tech-stack-⚙️)
+8. [🤝 Join Us](#join-us-🤝)
+9. [🌐 Social Media](#🌐-social-media)
+10. [🚀 Future Development](#🚀-future-development)
+11. [📖 About Us](#about-us)
+12. [🛠️ Setup](#setup-🛠️)
 
 
 # 💡 Introduction
-<br/>
-
-**Problem Statement**: Empowering Rural Communities to Break the Cycle of Poverty.
-
-**solution**: Our platform wall of humanity aims to reduce food and clothing waste by connecting donors with those in need. DOnors can donate items through our platform, which which we collect and distribute with the assistance of NGOs to ensure they reach the right beneficiaries.
 
 In a world abundant with resources yet marked by unequal distribution, countless individuals continue to face hunger and poverty. At the same time, rising food and clothing waste contributes to environmental damage and represents missed opportunities to support those in need. This imbalance is what inspired us to create Wall of Humanity—a platform committed to connecting donors with underserved communities, promoting sustainability and compassion.
 
@@ -97,22 +69,25 @@ We’re all about reducing waste and giving items a second life. By reusing good
 ### Impact on Communities 🌍
 Our project isn’t just about giving away things — it’s about changing lives. By providing basic necessities food and clothes to rural communities, we help people focus on what really matters: education, healthcare, and long-term empowerment. If someone orders food instead of buying it from outside they can invest their money in education.
 
-## Tech Stack ⚙️ 
+**A Google Solution Challenge Project 2025**  
+**Organized by:** Google Developer Group On Campus  
 
-We’ve built this platform using modern tools to make it easy to use and maintain:
+**Project by:**  
+**Team V_VAS Coders**  
+From **Dr. D. Y. Patil Pratishthan's College of Engineering**,  
+Salokhenagar, Kolhapur, Maharashtra, India.
 
-- **Frontend**: React, Tailwind CSS.
-- **Backend**: Node.js, Express (we’re using these technologies to build a fast and responsive system).
-- **Database**: M1/8ongoDB.
-- **Google Tools**:
-  - **Google Maps API**: For displaying locations of donors and recipients, calculating distances, and providing geolocation services.
-  - **Google Cloud Platform (GCP)**: For hosting the application, using cloud functions, and securely storing data. Services like **Firebase** (for authentication and real-time databases), **Google Cloud Storage** (for file storage), and **Google Cloud Functions** (for serverless computing) are utilized.
-  - **Google Places API**: To help users find nearby places, like donation centers or food distribution points.
-  - **Google Analytics**: For tracking user behavior and optimizing platform performance.
 
-## The Solution  💡 
+## Problem Statement 🌍.
+
+![Problem Statement Banner](problemstatementbanner.svg)
+
+**Problem Statement**: Empowering Rural Communities to Break the Cycle of Poverty.
+
+**Solution**: Our platform, **Wall of Humanity**, aims to reduce food and clothing waste by connecting donors with those in need. Donors can donate items through our platform, which we collect and distribute with the assistance of NGOs to ensure they reach the right beneficiaries.
 
 The **Wall of Humanity** solves the problem of food and clothing waste by creating a space where people can donate their surplus items. With the help of NGOs and volunteers, we ensure that these donations are collected and distributed to those who need them the most. It’s all about making sure that no good resource goes to waste, and that everyone has access to what they need to thrive.
+
 
 ## Who’s It For?
 
@@ -128,35 +103,18 @@ By offering food, clothes, and other essentials to those who need them most, we�
 ### Environmental Impact
 We’re also passionate about sustainability. By reusing goods that would otherwise go to waste, we help reduce environmental harm caused by overproduction and waste disposal.
 
-## Setup 🛠️ 
+## Tech Stack ⚙️ 
 
-### Setting Up the Project Locally
-Want to contribute to the project or run it on your local machine? Here’s how you can get started:
+We’ve built this platform using modern tools to make it easy to use and maintain:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/wall-of-humanity.git  
-2. Navigate to the project directory:
-    ```bash
-    cd wall-of-humanity
-3. Install dependencies:
-    ```bash
-    npm install
-4. Start the development Server:
-    ```bash  
-    npm run dev
-### About us
-
-## About Us
-
-<div align="center">
-
-| ![Vansh's Photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOMNBYD5cyzaeuMYI0uw4Or3dSYRiLxyb6Vg&s) | ![Shreyash's Photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFLvlF7STw33QwkLMWOosWaWA5QJay-V5hww&s) | ![Adinath's Photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBOcC9BXXaaf_f_IJcvozce_gFQp5j7opxkw&s) |
-|:--------------------------------------------------------:|:---------------------------------------------------------:|:-------------------------------------------------------:|
-| **Vansh Kirtishahi**<br>Founder of Wall of Humanity, working on managing operations and ensuring smooth project execution. | **Shreyash Rakhunde**<br>Social Worker, coordinating with NGOs to ensure donations reach those in need. | **Adinath Jadhav**<br>Software Engineer, leading the tech side of the project and ensuring smooth integration. |
-
-</div>
-
+- **Frontend**: React, Tailwind CSS.
+- **Backend**: Node.js, Express (we’re using these technologies to build a fast and responsive system).
+- **Database**: MongoDB.
+- **Google Tools**:
+  - **Google Maps API**: For displaying locations of donors and recipients, calculating distances, and providing geolocation services.
+  - **Google Cloud Platform (GCP)**: For hosting the application, using cloud functions, and securely storing data. Services like **Firebase** (for authentication and real-time databases), **Google Cloud Storage** (for file storage), and **Google Cloud Functions** (for serverless computing) are utilized.
+  - **Google Places API**: To help users find nearby places, like donation centers or food distribution points.
+  - **Google Analytics**: For tracking user behavior and optimizing platform performance.
 
 ### Join Us 🤝  
 
@@ -174,7 +132,7 @@ At **Wall of Humanity**, we believe in the power of community and collective act
 
 3. **As a Partner NGO**  
    - Collaborate with us to distribute donations efficiently.  
-   - Together, we can maximize our impact and reach more communities in need.  
+c   - Together, we can maximize our impact and reach more communities in need.  
 
 #### Why Join Us?  
 
@@ -188,7 +146,8 @@ At **Wall of Humanity**, we believe in the power of community and collective act
 ## Follow Us
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wall.of.humanity)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://www.linkedin.com/in/vansh-kirtishahi)](https://www.linkedin.com/in/yourprofile)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WzJqAbYjWv)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/V_VasCoders?t=vF8YDYUsFYOSPLhGQjwgDg&s=09)
 
 
@@ -201,8 +160,35 @@ Let’s spread kindness, one click at a time! 💕
 
 ## 🚀 Future Development
 
-As part of our ongoing efforts to recognize and reward the valuable contributions of our volunteers, we plan to introduce **Certificates of Appreciation** along with **Coupons** for popular services like **Amazon**, **Swiggy**, **Zomato**, **Flipkart**, **Myntra**, **Uber**, **Netflix**, and more. These incentives will be distributed to volunteers who actively participate and help us achieve our mission of reducing waste and supporting communities in need.
+- As part of our ongoing efforts to recognize and reward the valuable contributions of our volunteers, we plan to introduce **Certificates of Appreciation** for their time, effort, and dedication to the cause.
+- Along with the **Certificates of Appreciation**, we will also distribute **Food Coupons** for popular food and clothing brands like **Swiggy**, **Zomato**, **Amazon**, **Flipkart**, **Myntra**, **Dominos**, and more to people in need of food. These coupons will provide practical assistance to help them access meals and clothing, supporting their basic needs.
+- This initiative will not only recognize the volunteers' efforts but also directly benefit those who are hungry or in need of clothing, helping us achieve our mission of supporting communities in need.
+- We’re excited to roll out this program soon, and we’re grateful to all those who contribute to making a positive impact.
+- Additionally, we aim to introduce a **Scholarship Program** to support underprivileged children in completing their education. This initiative will provide financial assistance to deserving students, helping them pursue their academic goals and break the cycle of poverty.
 
-The **Certificates of Appreciation** will serve as a token of gratitude for the volunteers' time and dedication, while the **Coupons** will offer practical benefits to encourage continued involvement.
+## About Us
+<div align="center">
 
-This initiative will be rolled out in the near future, and we are excited to show our appreciation for the volunteers who help make a difference.
+| ![Vansh's Photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOMNBYD5cyzaeuMYI0uw4Or3dSYRiLxyb6Vg&s) | ![Shreyash's Photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFLvlF7STw33QwkLMWOosWaWA5QJay-V5hww&s) | ![Adinath's Photo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBOcC9BXXaaf_f_IJcvozce_gFQp5j7opxkw&s) | ![New Person's Photo](https://example.com/new-person-photo.jpg) |
+|:--------------------------------------------------------:|:---------------------------------------------------------:|:-------------------------------------------------------:|:--------------------------------------------------------:|
+| **Vansh Kirtishahi**<br>Founder of Wall of Humanity, working on managing operations and ensuring smooth project execution. | **Shreyash Rakhunde**<br>Social Worker, coordinating with NGOs to ensure donations reach those in need. | **Adinath Jadhav**<br>Software Engineer, leading the tech side of the project and ensuring smooth integration. | **New Person's Name**<br>Role description of the new person. |
+
+</div>
+
+## Setup 🛠️ 
+
+### Setting Up the Project Locally
+Want to contribute to the project or run it on your local machine? Here’s how you can get started:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/wall-of-humanity.git  
+2. Navigate to the project directory:
+    ```bash
+    cd wall-of-humanity
+3. Install dependencies:
+    ```bash
+    npm install
+4. Start the development Server:
+    ```bash  
+    npm run dev 
