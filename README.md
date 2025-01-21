@@ -7,18 +7,18 @@
 </div>
 
 ## Table of Contents
-1. [💡 Introduction](#-introduction)
-2. [🎯 Our Target SDG Goals](#our-target-sdg-goals-)
-3. [ℹ️ About the Project](#about-the-project-ℹ️)
-4. [🎯 Our Mission](#our-mission)
-5. [🌍 Why This Matters](#why-this-matters)
-6. [📝 What We Do](#what-we-do-)
-7. [⚙️ Tech Stack](#tech-stack-⚙️)
-8. [🤝 Join Us](#join-us-🤝)
-9. [🌐 Social Media](#🌐-social-media)
-10. [🚀 Future Development](#🚀-future-development)
-11. [📖 About Us](#about-us)
-12. [🛠️ Setup](#setup-🛠️)
+1. [Introduction](#introduction)
+2. [Our Target SDG Goals](#our-target-sdg-goals)
+3. [About the Project](#about-the-project)
+4. [Our Mission](#our-mission)
+5. [Why This Matters](#why-this-matters)
+6. [What We Do](#what-we-do)
+7. [Tech Stack](#tech-stack)
+8. [Join Us](#join-us)
+9. [Social Media](#social-media)
+10. [Future Development](#future-development)
+11. [About Us](#about-us)
+12. [Setup](#setup)
 
 
 # 💡 Introduction
@@ -39,7 +39,9 @@ Wall of Humanity is more than just a platform; it’s a movement aimed at breaki
 Our goal is to reduce food waste by redistributing surplus resources and providing essential items to those in need, fostering a more sustainable and equitable community.
 
 ## About the Project ℹ️
-**Welcome to **Wall of Humanity**! Our platform is designed to tackle two major issues:** food and poverty. We believe in the power of community and sustainability, so we've created a space where people can donate items they no longer need, like clothes and food, to help those who truly need them. By connecting donors, social workers, and NGOs, we ensure that these items find their way to the people who need them most. People can join us as the volunteer to help us.
+**Welcome to **Wall of Humanity**!
+
+Our platform is designed to tackle two major issues:** food and poverty. We believe in the power of community and sustainability, so we've created a space where people can donate items they no longer need, like clothes and food, to help those who truly need them. By connecting donors, social workers, and NGOs, we ensure that these items find their way to the people who need them most. People can join us as the volunteer to help us.
 
 ### Our Mission
 At **Wall of Humanity**, our mission is simple: reduce waste and empower communities. We’re here to help break the cycle of poverty by redistributing surplus resources to those in need, especially in rural areas. Together, we can build a more sustainable and compassionate world. Our project reduces the wastage of and resources.
@@ -69,16 +71,7 @@ We’re all about reducing waste and giving items a second life. By reusing good
 ### Impact on Communities 🌍
 Our project isn’t just about giving away things — it’s about changing lives. By providing basic necessities food and clothes to rural communities, we help people focus on what really matters: education, healthcare, and long-term empowerment. If someone orders food instead of buying it from outside they can invest their money in education.
 
-**A Google Solution Challenge Project 2025**  
-**Organized by:** Google Developer Group On Campus  
-
-**Project by:**  
-**Team V_VAS Coders**  
-From **Dr. D. Y. Patil Pratishthan's College of Engineering**,  
-Salokhenagar, Kolhapur, Maharashtra, India.
-
-
-## Problem Statement 🌍.
+## Problem Statement 🌍
 
 ![Problem Statement Banner](problemstatementbanner.svg)
 
@@ -146,7 +139,7 @@ c   - Together, we can maximize our impact and reach more communities in need.
 ## Follow Us
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wall.of.humanity)
-[![LinkedIn](https://www.linkedin.com/in/vansh-kirtishahi)](https://www.linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vansh-kirtishahi)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WzJqAbYjWv)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/V_VasCoders?t=vF8YDYUsFYOSPLhGQjwgDg&s=09)
 
@@ -173,6 +166,13 @@ Let’s spread kindness, one click at a time! 💕
 |:--------------------------------------------------------:|:---------------------------------------------------------:|:-------------------------------------------------------:|:--------------------------------------------------------:|
 | **Vansh Kirtishahi**<br>Founder of Wall of Humanity, working on managing operations and ensuring smooth project execution. | **Shreyash Rakhunde**<br>Social Worker, coordinating with NGOs to ensure donations reach those in need. | **Adinath Jadhav**<br>Software Engineer, leading the tech side of the project and ensuring smooth integration. | **New Person's Name**<br>Role description of the new person. |
 
+**A Google Solution Challenge Project 2025**  
+**Organized by:** Google Developer Group On Campus  
+
+**Project by:**  
+**Team V_VAS Coders**  
+From **Dr. D. Y. Patil Pratishthan's College of Engineering**,  
+Salokhenagar, Kolhapur, Maharashtra, India.
 </div>
 
 ## Setup 🛠️ 
