@@ -21,14 +21,14 @@
 12. [Setup](#setup)
 
 
-# 💡 Introduction
+## Introduction
 
 In a world abundant with resources yet marked by unequal distribution, countless individuals continue to face hunger and poverty. At the same time, rising food and clothing waste contributes to environmental damage and represents missed opportunities to support those in need. This imbalance is what inspired us to create Wall of Humanity—a platform committed to connecting donors with underserved communities, promoting sustainability and compassion.
 
 Wall of Humanity is more than just a platform; it’s a movement aimed at breaking the cycle of poverty, particularly in rural areas. By redistributing surplus food, clothing, and essential goods, we strive to offer immediate relief while fostering long-term empowerment. Our platform bridges the gap between those who have resources to share and those in need, ensuring that no valuable resource goes to waste.
 
 
-### Our Target SDG Goals 🎯
+## Our Target SDG Goals 🎯
 <div style="display: flex; justify-content: space-between; align-items: center; ">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJeZLWb8w0GeBFMcDx4LwKpJHj1Q-uKybtyA&s" alt="Image 1" style="width: 38%; height: auto;">
   <img src="https://iprt.uneca.org/images/sdg/en/E_Inverted_SDG_goals_02.png?v=WwmY1bcafhkV2cEqgartaUJ75vtFd9JSE0C81JcF4g0" alt="Image 2" style="width: 38%; height: auto;">
@@ -43,21 +43,15 @@ Our goal is to reduce food waste by redistributing surplus resources and providi
 
 Our platform is designed to tackle two major issues:** food and poverty. We believe in the power of community and sustainability, so we've created a space where people can donate items they no longer need, like clothes and food, to help those who truly need them. By connecting donors, social workers, and NGOs, we ensure that these items find their way to the people who need them most. People can join us as the volunteer to help us.
 
-### Our Mission
+## Our Mission
 At **Wall of Humanity**, our mission is simple: reduce waste and empower communities. We’re here to help break the cycle of poverty by redistributing surplus resources to those in need, especially in rural areas. Together, we can build a more sustainable and compassionate world. Our project reduces the wastage of and resources.
 
-### Why This Matters
+## Why This Matters
 <br/>
 
 - **Food Waste Crisis**: According to the Food and Agriculture Organization (FAO), approximately one-third of all food produced globally is wasted, while millions go hungry every day.
 - **Clothing Waste**: The fashion industry contributes significantly to landfill waste, yet many individuals struggle to access basic clothing.
 - **Rural Poverty**: Rural communities often lack access to resources, leaving them trapped in cycles of poverty and limited opportunities.
-
-## How We Make a Difference
-- **Connecting Donors and Recipients**: Our platform allows individuals and organizations to donate surplus items, which we collect and distribute to those in need with the help of NGOs and volunteers.
-- **Empowering Communities**: By addressing immediate needs like food and clothing, we help underprivileged individuals redirect their resources towards building better futures.
-Promoting Sustainability: By reducing waste and giving items a second life, we contribute to a healthier planet for future generations.
-
 
 ## What We Do 📝
 
@@ -70,31 +64,6 @@ We’re all about reducing waste and giving items a second life. By reusing good
 
 ### Impact on Communities 🌍
 Our project isn’t just about giving away things — it’s about changing lives. By providing basic necessities food and clothes to rural communities, we help people focus on what really matters: education, healthcare, and long-term empowerment. If someone orders food instead of buying it from outside they can invest their money in education.
-
-## Problem Statement 🌍
-
-![Problem Statement Banner](problemstatementbanner.svg)
-
-**Problem Statement**: Empowering Rural Communities to Break the Cycle of Poverty.
-
-**Solution**: Our platform, **Wall of Humanity**, aims to reduce food and clothing waste by connecting donors with those in need. Donors can donate items through our platform, which we collect and distribute with the assistance of NGOs to ensure they reach the right beneficiaries.
-
-The **Wall of Humanity** solves the problem of food and clothing waste by creating a space where people can donate their surplus items. With the help of NGOs and volunteers, we ensure that these donations are collected and distributed to those who need them the most. It’s all about making sure that no good resource goes to waste, and that everyone has access to what they need to thrive.
-
-
-## Who’s It For?
-
-- **Donors**: People who want to make a difference by donating food, clothes, or other items they no longer need.
-- **Team Members**: Volunteers or staff who help with collecting and distributing donations.
-- **NGOs**: Organizations that assist in the distribution process, ensuring that the donations reach the right people.
-
-## Our Impact
-
-### Social Impact
-By offering food, clothes, and other essentials to those who need them most, we’re helping people focus on what truly matters — building a better future. Our goal is to create a ripple of positive change in rural communities, helping individuals break free from the grip of poverty and improve their lives for the long term.
-
-### Environmental Impact
-We’re also passionate about sustainability. By reusing goods that would otherwise go to waste, we help reduce environmental harm caused by overproduction and waste disposal.
 
 ## Tech Stack ⚙️ 
 
@@ -109,11 +78,11 @@ We’ve built this platform using modern tools to make it easy to use and mainta
   - **Google Places API**: To help users find nearby places, like donation centers or food distribution points.
   - **Google Analytics**: For tracking user behavior and optimizing platform performance.
 
-### Join Us 🤝  
+## Join Us 🤝  
 
 At **Wall of Humanity**, we believe in the power of community and collective action to make a difference. Whether you’re an individual, an organization, or just someone looking to give back, there’s a place for you in our mission to reduce waste and empower communities.  
 
-#### How You Can Join  
+### How You Can Join  
 
 1. **As a Donor**  
    - Got clothes, food, or other essentials you no longer need? Sign up on our platform to donate.  
@@ -126,12 +95,6 @@ At **Wall of Humanity**, we believe in the power of community and collective act
 3. **As a Partner NGO**  
    - Collaborate with us to distribute donations efficiently.  
 c   - Together, we can maximize our impact and reach more communities in need.  
-
-#### Why Join Us?  
-
-- **Make a Difference**: Every small act of kindness contributes to a larger impact.  
-- **Support Sustainability**: Help reduce waste and give resources a second life.  
-- **Empower Communities**: Be part of a movement that’s breaking the cycle of poverty.  
 
 ### 🌐 Social Media
 <p>Stay connected and join our mission to empower communities and reduce waste. Follow us on:</p>
@@ -191,4 +154,4 @@ Want to contribute to the project or run it on your local machine? Here’s how 
     npm install
 4. Start the development Server:
     ```bash  
-    npm run dev 
+    npm run dev
